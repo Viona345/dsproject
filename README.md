@@ -1,3 +1,1 @@
-# End to End Mechine Learning Project 
-
-## Cakap MEchine Learning Project
+# End to End Machine Learning Project
